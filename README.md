@@ -36,7 +36,7 @@ pywin32 (for accessing Windows API for converting docx to pdf)
 
 Launch the program using the command:
 ```
-python app.py.
+python app.py
 ```
 Fill in the necessary fields such as the recipient's name, place, date, certificate number and id.
 Click on "Generate Certificate" to create the certificate with the embedded QR code.
