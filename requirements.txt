@@ -1,0 +1,4 @@
+qrcode
+python-docx
+docxtpl
+pywin32
